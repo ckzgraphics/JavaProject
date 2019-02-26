@@ -1,4 +1,8 @@
 target/
+test-output
+test-output/
+reports
+reports/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
