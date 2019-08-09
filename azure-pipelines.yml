@@ -12,5 +12,5 @@ pool:
 steps:
 - script: |
     echo Starting the build
-    mvn build
+    mvn test
   displayName: 'Build with Maven'
